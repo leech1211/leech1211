@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 
 
-🌸 
-- how ya doin
+🌸  how ya doin
+-
 - EMail : <leech1211@nate.com>
 - Instagram : https://www.instagram.com/flower_pattern/
