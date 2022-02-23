@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C++-FFC0CB?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-%23FFD400.svg?style=flat-square&logo=java&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Kotlin-8?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 
 🔧 Tools
 -
@@ -40,6 +41,7 @@ Here are some ideas to get you started:
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat-square&logo=Eclipse&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 
 
 💬 How to Contact me
