@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Eclipse-DBA901.svg?style=flat-square&logo=Eclipse&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-%FAFAFA.svg?style=flat-square&logo=notion&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-FAFAFA.svg?style=flat-square&logo=notion&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 
 
