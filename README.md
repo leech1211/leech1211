@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C++-FFC0CB?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-%23FFD400.svg?style=flat-square&logo=java&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Kotlin-8B00FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
+
 
 🌻 Tools
 -
@@ -36,10 +36,8 @@ Here are some ideas to get you started:
 <a href="" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Eclipse-DBA901.svg?style=flat-square&logo=Eclipse&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-D3D3D3.svg?style=flat-square&logo=notion&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
+
 
 
 🌸  how ya doin
