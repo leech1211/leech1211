@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C++-FFC0CB?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-%23FFD400.svg?style=flat-square&logo=java&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Verilog-B2D7FC?.svg?style=flat-square&logo=java&logoColor=white"/></a>
+
 
 
 🌻 Tools
