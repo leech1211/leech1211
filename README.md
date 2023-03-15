@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=leech1211&show_icons=true&hide_border=true)](https://github.com/leech1211)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leech1211&langs_count=10&layout=compact&theme=dark)](https://github.com/leech1211/leech1211)
+
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=cacu1211)](https://solved.ac/cacu1211)
 
 
