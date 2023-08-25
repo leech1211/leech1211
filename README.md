@@ -22,23 +22,27 @@ Here are some ideas to get you started:
 
 
 <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a> -->
-🌺 Programming Language
--
+<h3 align="center">🌺 Programming Language</h3>
+<p align="center">
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C++-FFC0CB?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"/>
+</p>
 
-
-🌻 Tools
--
+<h3 align="center">🌻 Tools</h3>
+<p align="center">
 <a href="" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-D3D3D3.svg?style=flat-square&logo=notion&logoColor=white"/></a>
+  <br>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Unity-000000.svg?style=flat-square&logo=Unity&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Rider-99005e.svg?style=flat-square&logo=Rider&logoColor=white"/></a>
+</p>
 
 
-
-🌸  how ya doin
--
-- EMail : <leech1211@nate.com>
+<h3 align="center">🌸  how ya doin</h3>
+<p align="center">
+- EMail : leech1211@nate.com
+  <br>
 - Instagram : https://www.instagram.com/flower_pattern/
+</p>
